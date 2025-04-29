@@ -1,9 +1,9 @@
-# Liquid-Dynamics
+# Liquid Dynamics
 
 Project tree
 
 ```
-Liquid-Dynamics/
+liquid_dynamics/
 ├── __init__.py         (empty – turns the folder into a pkg)
 ├── config.py           # all knobs & constants
 ├── utils.py            # B-spline weights, timing helpers…
