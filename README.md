@@ -3,7 +3,7 @@
 Project tree
 
 ```
-flip_t4/
+Liquid-Dynamics/
 ├── __init__.py         (empty – turns the folder into a pkg)
 ├── config.py           # all knobs & constants
 ├── utils.py            # B-spline weights, timing helpers…
