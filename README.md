@@ -14,7 +14,7 @@ liquid_dynamics/
 ├── surface.py          # level-set build + marching cubes / OpenVDB
 ├── sim.py              # one sub-step orchestrator
 ├── gui.py              # real-time visualization
-└── main.py             # CLI entry-point  (python -m flip_t4)
+└── __main__.py             # CLI entry-point  (python -m flip_t4)
 ```
 
 Install deps
